@@ -110,7 +110,6 @@ downloaded.GetContentFile('superbowl-ads.csv')
 ![](https://github.com/GUNDUPOOJA/apache_beam_python-wordcount/blob/main/outputimage.PNG)
 
 ## References 
-- [Google Colab](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
 - [Kaggle](https://www.kaggle.com/)
 - [Apache-beam](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
 - [Youtube Video shows how to import files to google colab](https://www.youtube.com/watch?v=oqMImCeXi6o)
