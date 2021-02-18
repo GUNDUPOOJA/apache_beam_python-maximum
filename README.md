@@ -47,6 +47,9 @@ pip install apache-beam[gcp,aws,test,docs]
 
 ## DataSet I have choosen 
 - [My dataset from kaggle-superbowl-ads.csv](https://www.kaggle.com/prondeau/superbowlads)
+- 
+## Important Resource that clearly explains how to import files to google colab
+- [Youtube Video shows how to import files to google colab](https://www.youtube.com/watch?v=oqMImCeXi6o)
 
 ## References
 - [Apache Beam Documentation ](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
